@@ -1,2 +1,2 @@
 # clock-application
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, DOM
